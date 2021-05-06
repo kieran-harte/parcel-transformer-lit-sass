@@ -11,5 +11,18 @@
   },
   "dependencies": {
     "@parcel/plugin": "2.0.0-beta.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieran-harte/parcel-transformer-lit-sass.git"
+  },
+  "keywords": [
+    "lit",
+    "sass",
+    "parcel"
+  ],
+  "bugs": {
+    "url": "https://github.com/kieran-harte/parcel-transformer-lit-sass/issues"
+  },
+  "homepage": "https://github.com/kieran-harte/parcel-transformer-lit-sass#readme"
 }
