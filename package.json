@@ -1,0 +1,15 @@
+{
+  "name": "parcel-transformer-lit-sass",
+  "version": "0.1.0",
+  "description": "Import SCSS files into Lit components as CSS template literals",
+  "author": "Kieran Harte",
+  "license": "MIT",
+  "main": "src/LitSassTransformer.js",
+  "engines": {
+    "node": ">= 12.0.0",
+    "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "@parcel/plugin": "2.0.0-beta.2"
+  }
+}
